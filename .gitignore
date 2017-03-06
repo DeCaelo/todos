@@ -1,0 +1,20 @@
+node_modules
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directory
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Env variables
+.env
+
+# Finder stuff
+.DS_Store
